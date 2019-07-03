@@ -1,4 +1,4 @@
 ## Projetos-Pessoais
 Projetos pessoais os quais crio para adquirir mais conhecimento e me aprofundar em certas áreas.
 ##### Linguagens usadas: Python
-###### Bibliotecas usadas: Pandas, Matplotlib e Scikit-Learn.
+###### Bibliotecas usadas: Pandas e Matplotlib
