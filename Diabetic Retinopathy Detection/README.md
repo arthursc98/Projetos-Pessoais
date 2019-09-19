@@ -4,3 +4,5 @@ Found out this dataset at Kaggle and everything was made at Kaggle kernel, i jus
 <br>
 I used transfer learning with a VGG19 architecture to try to predict what level of DR he might have.
 <br>
+<br>
+Note: Pleass ignore the dir check output of kaggle, next time i’ll remove it before post it anywhere.
